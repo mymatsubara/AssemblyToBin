@@ -1,2 +1,2 @@
 # AssemblyToBin
-Transform a PC SPIM instructions to binary.
+Transform PC SPIM formatted instructions to binary instructions.
